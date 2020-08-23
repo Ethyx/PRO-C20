@@ -1,5 +1,3 @@
 Project 20
 
-GCSO
-
-Made by Rishi Venkatesh.
+GCSO - Made by Rishi Venkatesh.
